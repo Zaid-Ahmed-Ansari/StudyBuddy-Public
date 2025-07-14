@@ -1,0 +1,5 @@
+# robots.txt for studybuddy.rest
+User-agent: *
+Allow: /
+
+Sitemap: https://studybuddy.rest/sitemap.xml 
