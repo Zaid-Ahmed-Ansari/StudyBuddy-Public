@@ -15,6 +15,7 @@ StudyBuddy is a modern, AI-powered web platform designed to help students collab
 - **Study Planner**: Effortlessly structure your semester with AI-generated weekly study plans. Manage goals, track progress, and optimize study sessions.
 - **Last Minute Revision Kit**: Get formulas, definitions, flashcards, Q&A, and more for last-minute revision.
 - **Quiz Generator**: Create custom quizzes from your notes or files. Choose question type, difficulty, and get instant feedback.
+-  **Q&A Generator**: Upload your notes or type text manually to generate AI-powered questions and answers. Customize difficulty level and answer length for more targeted learning.
 - **Study Clubs**: Collaborate in real-time with peers via chat, video, file sharing, and whiteboards. Create or join clubs with a single link.
 - **Saved Responses & Dashboard**: Save, organize, and review your AI-generated content and quiz results in a personalized dashboard.
 - **Secure Authentication**: Modern login/signup with NextAuth.js, Google OAuth, and robust session management.
